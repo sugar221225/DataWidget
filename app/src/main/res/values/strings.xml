@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">데이터 위젯</string>
+    <string name="widget_title">이번 달 데이터</string>
+    <string name="need_permission">권한 필요</string>
+    <string name="error">조회 실패</string>
+    <string name="open_settings">사용 기록 접근 허용하기</string>
+    <string name="guide">위젯을 쓰려면 \'사용 기록 접근\'을 허용해 주세요.\n목록에서 \'데이터 위젯\'을 찾아 켜면 됩니다.</string>
+    <string name="month_usage">이번 달 사용량\n%1$s\n\n홈 화면에서 위젯을 추가하세요.</string>
+</resources>
